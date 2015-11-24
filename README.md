@@ -7,3 +7,7 @@ If you are working on a PC, you will need to Google how to download Ruby and the
 install Sass! 
 
 -Kelsey and Halle 
+
+
+Great job! - Andrew
+
